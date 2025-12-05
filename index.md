@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
-Example edit
 ---
 
+Example edit
+- [x] checkbox
